@@ -3,10 +3,14 @@
 作者：张桢
 13000字纯手敲！！！ 超级无敌细节文档，基于植物大战僵尸
 实现了包括 图像化app图标
+
 <img width="72" height="92" alt="image" src="https://github.com/user-attachments/assets/9cfa0656-e1dc-4fa3-829a-eb8898e0f68f" />
 <img width="886" height="581" alt="image" src="https://github.com/user-attachments/assets/06df5ca8-ecad-41bc-9081-d33663cec049" />
 面试官到这里是不是想给我开SP了，淡定哈
 蔡徐坤植物，五条悟的大招虚式-茈，更是有定制化子弹特效，以及蔡徐坤“你干嘛”音效绑定
+<img width="650" height="472" alt="image" src="https://github.com/user-attachments/assets/34be8d18-e88e-40b1-9d02-e31dbceda4af" />
+<img width="642" height="491" alt="image" src="https://github.com/user-attachments/assets/9dc7a1ef-19cf-4464-969b-ad63c06d2daa" />
+<img width="409" height="189" alt="image" src="https://github.com/user-attachments/assets/7bde50ad-927c-46d4-89d4-98e1483a8046" />
 
 ## 1.项目总体陈述 1
 
