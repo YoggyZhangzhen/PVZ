@@ -1,7 +1,7 @@
 # 高并发无锁内存池植物大战僵尸项目？篮球大战蔡徐坤还差不多！
 史上最强MasterPiece，面向对象OOP的究极实战！
 作者：张桢
-13000字纯手敲！！！ 超级无敌细节文档，基于植物大战僵尸
+40000字md纯手敲！！！ 超级无敌细节文档，基于植物大战僵尸
 实现了包括 图像化app图标
 
 <img width="72" height="92" alt="image" src="https://github.com/user-attachments/assets/9cfa0656-e1dc-4fa3-829a-eb8898e0f68f" />
